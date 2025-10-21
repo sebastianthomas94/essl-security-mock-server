@@ -5,12 +5,13 @@ A simple Express.js server that logs all incoming request information to the con
 ## Features
 
 - 📋 Logs all request headers
-- 📦 Displays request body (JSON and form data)
+- 📦 Displays request body (JSON, XML, and form data)
 - 🔍 Shows query parameters
 - 🛣️ Displays URL parameters
 - 🍪 Shows cookies
 - 📱 Logs client IP address
 - 🌐 Works with any HTTP method (GET, POST, PUT, DELETE, etc.)
+- 🗂️ Supports multiple content types (JSON, XML, form-encoded)
 - ✨ Pretty formatted console output with emojis
 
 ## Installation
@@ -46,6 +47,11 @@ curl http://localhost:3000/test
 curl -X POST http://localhost:3000/api/data \
   -H "Content-Type: application/json" \
   -d '{"name": "John", "age": 30}'
+
+# POST request with XML data
+curl -X POST http://localhost:3000/api/data \
+  -H "Content-Type: application/xml" \
+  -d '<?xml version="1.0"?><user><name>John</name><age>30</age></user>'
 
 # GET request with query parameters
 curl "http://localhost:3000/search?q=test&page=1"

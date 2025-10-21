@@ -1,0 +1,1082 @@
+[
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:16:35",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:19.288Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:03:50",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:20.953Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:08:35",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:20.953Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:11:19",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:20.953Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:13:38",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:20.953Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:20",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:21.312Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:27",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:23.330Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:32",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:25.345Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:37",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:27.362Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:27:50",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:29.380Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:28:26",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:31.396Z"
+  },
+  {
+    "PIN": "3",
+    "Timestamp": "2025-10-10 17:31:21",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:35.421Z"
+  },
+  {
+    "PIN": "3",
+    "Timestamp": "2025-10-10 17:33:03",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:37.437Z"
+  },
+  {
+    "PIN": "4",
+    "Timestamp": "2025-10-10 17:34:13",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:12:41.469Z"
+  },
+  {
+    "PIN": "4",
+    "Timestamp": "2025-10-10 17:45:15",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:15:15.616Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:49:13",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:19:13.872Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:12:20",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:42:20.146Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:28:05",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:58:05.884Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:28:11",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:58:12.917Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:29:14",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T12:59:14.968Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:03:50",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:08:35",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:11:19",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:13:38",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:16:35",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:20",
+    "VerifyMode": "5",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:27",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:32",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:25:37",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:27:50",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "2",
+    "Timestamp": "2025-10-10 17:28:26",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "3",
+    "Timestamp": "2025-10-10 17:31:21",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "3",
+    "Timestamp": "2025-10-10 17:33:03",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "4",
+    "Timestamp": "2025-10-10 17:34:13",
+    "VerifyMode": "0",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "4",
+    "Timestamp": "2025-10-10 17:45:15",
+    "VerifyMode": "1",
+    "InOutMode": "3",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 17:49:13",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:12:20",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:28:05",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:28:11",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:29:14",
+    "VerifyMode": "1",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:00:16.877Z"
+  },
+  {
+    "PIN": "5",
+    "Timestamp": "2025-10-10 18:32:29",
+    "VerifyMode": "1",
+    "InOutMode": "1",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:02:31.141Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:42:40",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:12:40.412Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:47:40",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:17:40.693Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-10 18:54:53",
+    "VerifyMode": "4",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "CUB7252100663",
+    "receivedAt": "2025-10-10T13:24:54.091Z"
+  },
+  {
+    "PIN": "1001",
+    "Timestamp": "2025-10-20 09:15:00",
+    "VerifyMode": "1",
+    "InOutMode": "0",
+    "WorkCode": "0",
+    "SN": "SN12345",
+    "receivedAt": "2025-10-20T11:40:22.619Z"
+  },
+  {
+    "PIN": "1002",
+    "Timestamp": "2025-10-20 09:20:00",
+    "VerifyMode": "1",
+    "InOutMode": "0",
+    "WorkCode": "0",
+    "SN": "SN12345",
+    "receivedAt": "2025-10-20T11:40:22.619Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:08",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:43:11.802Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:14",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:43:11.802Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:08",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:45:09.024Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:11",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:45:12.045Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:16:42",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:46:43.151Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:36",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:47:37.217Z"
+  },
+  {
+    "PIN": "1001",
+    "Timestamp": "2025-10-20 09:15:00",
+    "VerifyMode": "1",
+    "InOutMode": "0",
+    "WorkCode": "0",
+    "SN": "SN12345",
+    "receivedAt": "2025-10-20T11:47:47.934Z"
+  },
+  {
+    "PIN": "1002",
+    "Timestamp": "2025-10-20 09:20:00",
+    "VerifyMode": "1",
+    "InOutMode": "0",
+    "WorkCode": "0",
+    "SN": "SN12345",
+    "receivedAt": "2025-10-20T11:47:47.934Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:57",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:47:58.254Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:13",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:48:14.291Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:45",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:48:46.342Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:47",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:48:48.351Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:49",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:48:50.364Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:52",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:48:53.373Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:02",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:02.407Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:04",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:05.417Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:06",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:07.428Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:10",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:11.442Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:17",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:18.460Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:19",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:20.479Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:21",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:22.506Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:30",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:49:30.530Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:20:10",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:50:10.582Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:27:53",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:57:54.021Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:28:25",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:58:26.066Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:08",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:14",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:08",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:11",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:16:42",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:36",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:57",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:13",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:45",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:47",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:49",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:52",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:02",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:04",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:06",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:10",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:17",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:19",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:21",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:30",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:20:10",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:27:53",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:28:25",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T11:59:12.359Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:39:13",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:09:14.746Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:08",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:12:14",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:08",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:15:11",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:16:42",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:36",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:17:57",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:13",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:45",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:47",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:49",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:18:52",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:02",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:04",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:06",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:10",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:17",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:19",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:21",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:19:30",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:20:10",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:27:53",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:28:25",
+    "VerifyMode": "0",
+    "InOutMode": "15",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:39:13",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:17:35.013Z"
+  },
+  {
+    "PIN": "1",
+    "Timestamp": "2025-10-20 17:51:10",
+    "VerifyMode": "0",
+    "InOutMode": "4",
+    "WorkCode": "0",
+    "SN": "JNP2253300426",
+    "receivedAt": "2025-10-20T12:21:11.470Z"
+  }
+]
