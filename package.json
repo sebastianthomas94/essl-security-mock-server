@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Express.js server that logs all request information",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "install": "pnpm install",
+    "build": "pnpm run build",
+    "test": "pnpm run test"
   },
   "keywords": [
     "express",
