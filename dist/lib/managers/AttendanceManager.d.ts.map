@@ -1,0 +1,1 @@
+{"version":3,"file":"AttendanceManager.d.ts","sourceRoot":"","sources":["../../../lib/managers/AttendanceManager.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,qBAAqB,CAAC;AAErD,qBAAa,iBAAiB;IAChB,OAAO,CAAC,cAAc;gBAAd,cAAc,EAAE,cAAc;IAElD,eAAe,CAAC,QAAQ,GAAE,MAAkB;CAG7C"}
