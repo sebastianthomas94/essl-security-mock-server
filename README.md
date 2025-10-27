@@ -86,65 +86,10 @@ The `ESSLServer` constructor no longer takes configuration options. You configur
 
 Setup eSSL device routes on an existing Express application.
 
-```javascript
-import express from 'express';
-import cors from 'cors';
-import xmlParser from 'express-xml-bodyparser';
-import { ESSLServer } from 'ess-node-sdk';
 
-// Create and configure your Express app
-const app = express();
-app.use(cors());
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use(express.text());
-app.use(xmlParser());
 
-// Create ESSLServer and setup routes
-const device = new ESSLServer();
-device.setupRoutes(app);
 
-// Start your server
-const server = app.listen(3000);
-```
 
-### Integration Examples
-
-#### With Custom Routes
-
-```javascript
-const app = express();
-
-// Your middleware and routes
-app.use(cors());
-app.get('/health', (req, res) => res.json({ status: 'ok' }));
-
-// Setup eSSL routes
-const device = new ESSLServer();
-device.setupRoutes(app);
-
-app.listen(3000);
-```
-
-#### Multiple Devices
-
-```javascript
-const app = express();
-const deviceA = new ESSLServer();
-const deviceB = new ESSLServer();
-
-// Create separate routers for different devices
-const routerA = express.Router();
-const routerB = express.Router();
-
-deviceA.setupRoutes(routerA);
-deviceB.setupRoutes(routerB);
-
-app.use('/device-a', routerA);
-app.use('/device-b', routerB);
-```
-
-### User Management
 
 #### addUser(userData)
 
