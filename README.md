@@ -21,56 +21,9 @@ npm install ess-node-sdk
 
 ## Quick Start
 
-```javascript
-import express from 'express';
-import cors from 'cors';
-import xmlParser from 'express-xml-bodyparser';
-import { ESSLServer } from 'ess-node-sdk';
 
-// Create your own Express app
-const app = express();
 
-// Setup your middleware
-app.use(cors());
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-app.use(express.text());
-app.use(xmlParser());
 
-// Create ESSLServer and setup routes
-const device = new ESSLServer();
-device.setupRoutes(app);
-
-// Start your server
-const server = app.listen(3000, () => {
-  console.log('eSSL Server running on port 3000');
-});
-
-// Add event listeners
-device.on('user.added', (data) => {
-  console.log('User added:', data.user.Name);
-});
-
-device.on('attendance.added', (data) => {
-  console.log('Attendance recorded:', data.attendance);
-});
-
-// Add a user
-const result = device.addUser({
-  name: 'John Doe',
-  pin: '123',
-  deviceSN: 'DEVICE001',
-  privilege: 1
-});
-
-// Query attendance
-const attendance = device.queryAttendance('DEVICE001', {
-  pin: '123',
-  startDate: '2024-01-01'
-});
-```
-
-## API Reference
 
 ### Constructor
 
@@ -85,9 +38,6 @@ The `ESSLServer` constructor no longer takes configuration options. You configur
 #### setupRoutes(app)
 
 Setup eSSL device routes on an existing Express application.
-
-
-
 
 
 
