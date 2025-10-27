@@ -28,7 +28,7 @@ npm install ess-node-sdk
 ### Constructor
 
 ```javascript
-const device = new ESSLServer();
+const device = new ESSLServer({port:1337});
 ```
 
 The `ESSLServer` constructor no longer takes configuration options. You configure your Express app yourself.
@@ -62,26 +62,18 @@ const result = device.addUser({
 Get user by PIN number.
 
 ```javascript
-const user = device.getUserByPin('123', 'DEVICE001');
+const user = device.getUserByPin('123' );
 ```
 
-#### updateUser(pin, updateData, deviceSN)
 
-Update existing user.
 
-```javascript
-const result = device.updateUser('123', {
-  name: 'Updated Name',
-  privilege: 2
-}, 'DEVICE001');
-```
 
 #### deleteUser(pin, deviceSN)
 
 Delete user from device.
 
 ```javascript
-const result = device.deleteUser('123', 'DEVICE001');
+const result = device.deleteUser('123',);
 ```
 
 #### getUsers(deviceSN)
@@ -99,26 +91,12 @@ const users = device.getUsers('DEVICE001');
 Query attendance records with optional filters.
 
 ```javascript
-const attendance = device.queryAttendance('DEVICE001', {
-  pin: '123',                    // Optional: specific user
-  startDate: '2024-01-01',      // Optional: start date
-  endDate: '2024-01-31'         // Optional: end date
-});
+const attendance = device.queryAttendance('DEVICE001');
 ```
 
 #### addAttendance(attendanceData)
 
-Manually add attendance record.
 
-```javascript
-const result = device.addAttendance({
-  pin: '123',
-  deviceSN: 'DEVICE001',
-  timestamp: new Date(),
-  verifyMode: '1',
-  inOutMode: '0'
-});
-```
 
 ### Server Control
 
